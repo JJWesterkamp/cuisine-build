@@ -1,0 +1,611 @@
+{
+
+    "imagePath": "images/recipeHeroes/",
+
+    "featured": {
+        "f00001": {
+            
+            "keyword": "lentestamppot",
+
+            "title": "Lentestamp van spinazie en gerookte kip",
+
+            "subtitle": "Frisgroen <em>stamppotje met spinazie</em> en snijboontjes: proef het voorjaar!",
+
+            "type": "hoofdgerecht",
+
+            "country": "Nederland",
+
+            "prepTime": [
+                "30 min. Bereiden"
+            ],
+            
+            "book": "b00018",
+
+            "nutrition": {
+                "energy"        : 300,
+                "carbohydrate"  : 49,
+                "fat"           : 1,
+                "fatSaturates"  : 0,
+                "protein"       : 18,
+                "fibre"         : 11,
+                "salt"          : 185
+            },
+
+            "people": 4,
+
+            "ingredients": [
+                "1.2 kg aardappelen",
+                "400 g gesneden snijbonen",
+                "400 g spinazie",
+                "2 tl gedroogde dragon",
+                "2 bosuitjes",
+                "160 g gerookte kipfilet (schaal)"
+            ],
+
+            "allergens": [
+                "zwaveldioxide"
+            ],
+
+            "preparation": [
+                "Schil de aardappelen, snijd in gelijke stukken en kook in een grote pan met ruim water en een beetje zout in 20 min. gaar Voeg de laatste 3 min. de snijbonen toe. Voeg de laatste minuut de spinazie in delen toe en laat slinken. Giet goed af. Voeg de dragon toe en stamp met de pureestamper tot een grove puree. Breng op smaak met peper en eventueel zout.",
+
+                "Snijd ondertussen de bosuitjes in schuine, dunne ringen en schep door de stamppot. Snijd de kip in reepjes. Verdeel de stamppot over de borden en verdeel de kipreepjes erover."
+
+            ]
+        },
+
+        "f00002": {
+            
+            "keyword": "radijssalade",
+            "title": "Geroosterd brood & radijssalade",
+
+            "subtitle": "Weinig calorieën, veel verse <em>groenten en volkorenbrood</em>: lekker slank lunchen!",
+
+            "type": "lunch",
+
+            "country": "Italië",
+
+            "prepTime": [
+                "15 min. Bereiden"
+            ],
+
+            "book": "b00014",
+
+            "nutrition": {
+                "energy"        : 205,
+                "carbohydrate"  : 13,
+                "fat"           : 15,
+                "fatSaturates"  : 2,
+                "protein"       : 3,
+                "fibre"         : 3,
+                "salt"          : 110
+            },
+
+            "people": 4,
+
+            "ingredients": [
+                "2 sneetjes volkorenbrood",
+                "2 trostomaten",
+                "1 komkommer",
+                "2 stengels bleekselderij",
+                "6 radijsjes",
+                "3 takjes munt (alleen de blaadjes)",
+                "10 g platte peterselie (bakje à 20 g)",
+                "1 citroen",
+                "4 el extra vierge olijfolie",
+                "2 tl honing"
+            ],
+
+            "allergens": [
+                "gluten",
+                "lupine",
+                "selderij"
+            ],
+
+            "preparation": [
+                "Rooster het brood en laat afkoelen. Halveer de tomaten, verwijder de zaadlijsten en zaadjes en snijd het vruchtvlees in stukjes. Snijd de komkommer in blokjes en de bleekselderij in boogjes. Was de radijsjes en snijd in parten. Snijd de munt en peterselie grof en meng met de groenten in een grote schaal.",
+
+                "Boen de citroen schoon. Rasp de gele schil en pers de vrucht uit. Klop een dressing van het citroenrasp, de olie en honing. Breng op smaak met het citroensap, peper en eventueel zout. Besprenkel de salade ermee. Breek het brood in stukjes en verdeel over de salade. Serveer direct."
+            ]
+        },
+
+        "f00003": {
+            
+            "keyword": "visstoof",
+            "title": "Braziliaanse visstoof",
+
+            "subtitle": "In Brazilië staat-ie regelmatig op tafel, bij ons is deze stoof <em>een echte traktatie</em> voor visliefhebbers!",
+
+            "type": "hoofdgerecht",
+
+            "country": "Brazilië",
+
+            "prepTime": [
+                "30 min. bereiden",
+                "30 min. wachten"
+            ],
+
+            "book": "b00015",
+
+            "nutrition": {
+                "energy"        : 680,
+                "carbohydrate"  : 70,
+                "fat"           : 23,
+                "fatSaturates"  : 10,
+                "protein"       : 46,
+                "fibre"         : 5,
+                "salt"          : 1475
+            },
+
+            "people": 4,
+
+            "ingredients": [
+                "450 g reuzengarnalen ongepeld (diepvries)",
+                "450 g roodbaarsfilet (diepvries)",
+                "3 limoenen",
+                "3 tenen knoflook",
+                "2 uien",
+                "1 rode peper",
+                "2 rode paprika\"s",
+                "3 tomaten",
+                "15 g koriander",
+                "3 el olijfolie",
+                "200 ml kokosmelk",
+                "½ kippenbouillontablet",
+                "300 g witte rijst"
+            ],
+
+            "allergens": [
+                "schaaldieren",
+                "vis"
+            ],
+
+            "preparation": [
+                "Laat de garnalen ontdooien. Laat de roodbaars ontdooien en snijd in 8 stukken. Boen ondertussen 1 limoen schoon, rasp de groene schil en snijd de vrucht in kwarten. Pers 2 limoenen uit. Snijd de knoflook fijn. Meng de vis met de helft van de knoflook en het limoensap. Breng op smaak met peper en eventueel zout. Laat 30 min. marineren. Snipper ondertussen de uien.",
+
+                "Snijd het steeltje van de rode peper. Halveer de peper in de lengte en verwijder met een scherp mesje de zaadlijsten. Snijd het vruchtvlees fijn. Halveer de paprika’s en verwijder de zaadlijsten. Snijd het vruchtvlees in reepjes. Snijd de tomaten in parten. Snijd de stelen van de koriander heel fijn en snijd de blaadjes grof.",
+
+                "Verhit de olie in een pan met dikke bodem en fruit de ui 3 min. op middelhoog vuur. Voeg de paprika en knoflook toe en bak 5 min. mee. Voeg de tomaat, rode peper en korianderstelen toe en breng aan de kook. Laat 5 min. koken op middelhoog vuur of tot de saus wat dikker wordt. Voeg de kokosmelk en bouillontablet toe en breng al roerend aan de kook. Breng op smaak met peper en eventueel zout. Leg de roodbaars en garnalen in de saus en draai het vuur laag. Laat met de deksel op de pan 5 min. zachtjes stoven.",
+
+                "Kook ondertussen de rijst volgens de aanwijzingen op de verpakking. Voeg het limoenrasp toe aan de visstoof en garneer met de korianderblaadjes. Serveer met de rijst en limoenparten."
+            ]
+        },
+
+        "f00004": {
+            
+            "keyword": "udonnoedels",
+
+            "title": "Gewokte udonnoedels met kipdijfilet, zeekraal en shiitake",
+
+            "subtitle": "Dit <em>kruidige Japanse wokgerecht</em> staat in 20 minuten op tafel!",
+
+            "type": "hoofdgerecht",
+
+            "country": "Japan",
+
+            "prepTime": [
+                "20 min. Bereiden"
+            ],
+
+            "book": "b00013",
+
+
+            "nutrition": {
+                "energy"        : 525,
+                "carbohydrate"  : 58,
+                "fat"           : 20,
+                "fatSaturates"  : 4,
+                "protein"       : 27,
+                "fibre"         : 2,
+                "salt"          : 600
+            },
+
+            "people": 4,
+
+            "ingredients": [
+                "300 g udon noedels",
+                "300 g kipdijfilet",
+                "2 tl shichimi togarashi",
+                "2 tenen knoflook",
+                "3 el arachideolie",
+                "1½ el sesamolie",
+                "100 g shiitakes",
+                "200 g zeekraal",
+                "125 g taugé",
+                "1 el zwart sesamzaad"
+            ],
+
+            "allergens": [
+                "lupine",
+                "sesamzaad"
+            ],
+
+            "preparation": [
+                "Bereid de noedels volgens de aanwijzingen op de verpakking.",
+
+                "Snijd ondertussen de kip in gelijke stukken en bestrooi met de shichimi togarashi en eventueel zout. Snijd de knoflook fijn. Verhit 2 el arachideolie in een wok en bak de kip 6 min. op middelhoog vuur. Keer regelmatig. Neem uit de pan en houd warm.",
+
+                "Verhit de rest van de arachideolie en de sesamolie in de wok en bak de knoflook en shiitake 3 min. op middelhoog vuur. Voeg de zeekraal, taugé en het sesamzaad toe. Roerbak 1 min. mee.",
+
+                "Voeg de noedels en kip toe en bak 2 min. mee. Serveer direct."
+            ]
+        },
+
+        "f00005": {
+            
+            "keyword": "Runderstoofvlees",
+
+            "title": "Runderstoofvlees met rode wijn",
+
+            "subtitle": "Het duurt even, zo’n stoofpot, maar je hebt er geen omkijken naar. <em>Een heerlijke winterschotel</em> bij romige aardappelpuree.",
+
+            "type": "hoofdgerecht",
+
+            "country": "Frankrijk",
+
+            "prepTime": [
+                "20 min. bereiden",
+                "4 uur wachten"
+            ],
+
+            "book": "b00017",
+
+            "nutrition": {
+                "energy"        : 715,
+                "carbohydrate"  : 15,
+                "fat"           : 34,
+                "fatSaturates"  : 14,
+                "protein"       : 52,
+                "fibre"         : 5,
+                "salt"          : 245
+            },
+
+            "people": 4,
+
+            "ingredients": [
+                "2 uien",
+                "2 laurierblaadjes (zakje)",
+                "5 jeneverbessen",
+                "2 el gedroogde rozemarijn",
+                "1 kg runderriblap (schaal)",
+                "750 ml volle rode wijn (bijv. Chianti)",
+                "400 g winterpeen",
+                "4 stengels bleekselderij",
+                "25 g boter",
+                "2 el olijfolie"
+            ],
+
+            "allergens": [
+                "selderij"
+            ],
+
+            "preparation": [
+                "Snipper de ui. Doe de ui, laurierblaadjes, jeneverbessen en rozemarijn in een grote kom. Leg het vlees erop en schenk de wijn erover. Laat minimaal 1 uur afgedekt in de koelkast marineren. Langer marineren mag ook; de smaken kunnen dan nog beter intrekken.",
+
+                "Snijd de peen en bleekselderij in plakjes. Verhit de boter en de olie in een braadpan. Bak de winterpeen en bleekselderij 5 min. Voeg het vlees en de marinade toe. Breng aan de kook. Laat minimaal 3 uur op laag vuur sudderen, bij voorkeur op een vlamverdeler.",
+
+                "Neem het vlees uit de pan en leg op een snijplank. Dek af met aluminiumfolie. Verwijder de laurierblaadjes, jeneverbessen en rozemarijn en pureer de groenten en de marinade met een staafmixer tot een saus. Snijd het vlees in plakken en schep de saus erbij."
+            ]
+        },
+
+        "f00006": {
+            
+            "keyword": "lamsbout",
+
+            "title": "Pittige lamsbout met raita en geroosterde groenten",
+
+            "subtitle": "De frisse yoghurtsaus past perfect bij het <em>kruidige lamsvlees</em>",
+
+            "type": "hoofdgerecht",
+
+            "country": "India",
+
+            "prepTime": [
+                "30 min. bereiden",
+                "1 uur wachten",
+                "1 u. 20 min. Oventijd"
+            ],
+
+            "book": "b00016",
+
+            "nutrition": {
+                "energy"        : 975,
+                "carbohydrate"  : 94,
+                "fat"           : 40,
+                "fatSaturates"  : 14,
+                "protein"       : 54,
+                "fibre"         : 12,
+                "salt"          : 800
+            },
+
+            "people": 8,
+
+            "ingredients": [
+                "1.6 kg lamsbout zonder been (diepvries, Taste of the World)",
+                "4 cm verse gember",
+                "2 el garam masala",
+                "1 tl gemalen cayennepeper",
+                "4 tenen knoflook",
+                "500 ml yoghurt",
+                "800 g zoete aardappelen",
+                "1 bloemkool",
+                "50 g rozijnen",
+                "1 komkommer",
+                "7,5 g munt",
+                "8 grote naans"
+            ],
+            
+            "allergens": [
+                "selderij",
+                "zwaveldioxide"
+            ],
+
+            "preparation": [
+                "Ontdooi het vlees en laat op kamertemperatuur komen.",
+
+                "Schil de gember en snijd grof. Doe de garam masala en cayennepeper in de vijzel. Vijzel de korianderzaadjes (uit de garam masala) fijn. Houd een ½ teen knoflook achter, snijd de rest grof en voeg met de gember toe aan de specerijen. Vijzel tot een gladde pasta. Meng de pasta met 50 ml yoghurt en breng op smaak met peper en eventueel zout.",
+
+                "Dep de lamsbout droog, maak met een mes rondom inkepingen van 2 cm en wrijf het vlees in met de yoghurtpasta. Leg het vlees op een met bakpapier beklede bakplaat en dek af met aluminiumfolie. Laat minimaal 1 uur op een koele plek marineren.",
+
+                "Verwarm de oven voor op 180 °C. Steek de vleesthermometer in het midden van het vlees en dek weer af met aluminiumfolie. Braad de lamsbout in het midden van de oven tot een kerntemperatuur van 56 °C (rosé). Dit duurt ca. 1 uur en 20 min.",
+
+                "Schil ondertussen de zoete aardappelen en snijd in stukken. Snijd de bloemkool in roosjes. Breng op smaak met peper en eventueel zout. Neem het vlees halverwege uit de oven, bedruip met het bakvet en dek weer af met aluminiumfolie. Schep de zoete aardappel, bloemkool en rozijnen rondom het vlees en rooster de laatste 40 min. mee.",
+
+                "Halveer ondertussen de komkommer in de lengte. Verwijder met een lepel de zaadlijsten en snijd het vruchtvlees in blokjes van ½ x ½ cm (brunoise). Snijd de munt en achtergehouden knoflook fijn. Meng met 450 ml yoghurt en komkommer en breng op smaak met peper en eventueel zout. Verwarm de naans volgens de aanwijzingen op de verpakking. Serveer het lamsvlees met de groente, yoghurtsaus (raita) en naans."
+            ]
+        }
+    },
+
+    "community": {
+        "c00001": {
+            
+            "author": "cheesy",
+            
+            "date": "2015-10-08",
+            
+            "keyword": "Lasagna",
+            
+            "title": "Lasagna",
+            
+            "introduction": "Het recept van deze originele italiaanse lasagna kreeg ik ooit van een italiaanse collega, ik heb 'm zelfs in een restaurant nooit zo lekker gekregen! Heb je alleen het recept van bolognesesaus of bechamelsaus nodig? Je vindt ze hier allebei! Ik ben er erg trots op dat dit al een tijd een van de populairste recepten op smulweb is, aan jullie reacties te zien vinden jullie 'm erg lekker.",
+            
+            "type": "Hoofdgerecht",
+            
+            "country": "Italië",
+            
+            "prepTime": ["60-120 min"],
+            
+            "likes": 28,
+            
+            "rating": {
+                "percent": 90,
+                "rates": 36
+            },
+            
+            "people": 4,
+            
+            "ingredients": [
+                "1/2 a 1 ui", 
+                "3 teentjes knoflook", 
+                "500 gr. rundergehakt", 
+                "italiaanse kruiden (basilicum, oregano, majoraan, peterselie, paprikapoeder)", 
+                "1 laurierblaadje", 
+                "sambal", 
+                "3 kleine blikjes tomatenpuree", 
+                "1 blik gepelde tomaten in stukjes", 
+                "1 pakje gezeefde tomaten", 
+                "1 pak voorgekookte lasagnevellen", 
+                "olijfolie", 
+                "2 bolletjes mozzarella (of evt. 8 plakken jonge kaas)", 
+                "50 gr. boter", 
+                "50 gr. bloem", 
+                "500 ml. koude melk", 
+                "suiker", 
+                "peper en zout"
+            ],
+            
+            "preparation": [
+                "Voor de bolognesesaus de ui snipperen en in een grote koekenpan met wat olijfolie fruiten, halverwege de fijngesneden knoflook toevoegen. In de kleine braadpan de tomatenpuree hard verwarmen (blijf roeren, anders brandt ze aan),tot deze niet zurig meer ruikt. Het ui/knoflook/olie mengsel toevoegen. In de grote koekenpan weer wat olijfolie verwarmen en het gehakt met de kruiden, zout en peper rul bakken. Toevoegen aan het tomatenpureemengsel, gepelde tomaten en gezeefde tomaten toevoegen en op smaak brengen met sambal, suiker en evt. nog wat kruiden en een laurierblaadje toevoegen. 1/2 uur a 3 kwartier op laag vuur laten sudderen met deksel op de pan, af en toe roeren. Ondertussen de oven voorverwarmen op 180 gr. C. Voor de bechamelsaus de boter smelten (niet bruin laten worden), bloem erdoor roeren en verwarmen (schrik niet; het wordt een soort klont, maar dat komt goed!). Daarna beetje bij beetje de koude melk met een garde erdoor roeren. Laten koken en blijven roeren tot je een dikke saus hebt. Op smaak brengen met zout en peper.",
+                
+                "In een ingevette ovenschaal 1 laag lasagnevellen leggen. Vervolgens bedekken met 1/3 van de bechamelsaus, 1/3 van de bolognesesaus en 1 in plakjes gesneden bolletje mozzarella of 4 plakken kaas. Nu weer herhalen met een laag lasagnevellen, saus en kaas, vervolgens nog zo'n laag maar dan zonder kaas. Afdekken met aluminium-folie en in de oven schuiven, boven het midden. Na 30 min. de folie verwijderen en nog 15 min. in de oven laten. Als het 'knettert' is het klaar."
+            ]
+        },
+        
+        "c00002": {
+            "author": "pwiggers",
+            "date": "2015-11-26",
+            "keyword": "kipfilet pizzaiola",
+            "title": "Pittige kipfilet à la Pizzaiola",
+            "introduction": "Dit heerlijke kipgerecht at ik bij een vriendin die met een Italiaan is getrouwd. Echt Italiaans dus. De kip wordt in de oven heel zacht en krijgt de verrukkelijke smaak van de pittige tomatensaus.Heel goed voor te bereiden dus super gemakkelijk als je gasten krijgt.",
+            "type": "Hoofdgerecht",
+            "country": "Italië",
+            "prepTime": ["10-20 min."],
+            "likes": 23,            
+            "rating": {
+                "percent": 87,
+                "rates": 29
+            },
+            "people": 4,
+            "ingredients": [
+                "Plm. 400 gram kipfilet",
+                "Peper, zout",
+                "Bloem",
+                "2 eetlepels olijfolie",
+                "1 blikje tomatenblokjes",
+                "1 kleine ui",
+                "2 teentjes knoflook",
+                "½ rode Spaanse peper",
+                "2 theelepels oregano",
+                "plm. 100 gram dunne plakjes pittig belegen kaas",
+                "1 glas droge witte wijn"
+            ],
+            "preparation": [
+                "Ui en knoflook pellen en snipperen. Spaanse peper schoonmaken, pitjes verwijderen en in kleine stukjes snijden. 1 eetlepel olijfolie in een kleine pan verwarmen en hierin de peperstukjes, ui en knoflook even aanzetten. Afblussen met de wijn en laten inkoken tot er nog plm. 1 eetlepel over is. De tomatenblokjes toevoegen en aan de kook brengen. Het geheel laten indikken tot er bijna geen vocht meer over is. Op smaak maken met peper, zout en oregano.",
+                
+                "Kipfilet in dunne plakken snijden. Bestrooien met wat peper, zout en bloem. Rest olie verhitten en kipfilet snel aan beide kanten lichtbruin bakken.",
+                
+                "Kip naast elkaar in ovenschaal leggen. Tomatensaus erover verdelen. Wat oregano erover strooien en een lekkere plak kaas erop leggen. Ongeveer 20 minuten in het midden van de oven op 200 graden, zodat de kaas is gesmolten en lichtbruin is."
+            ]
+        },
+        
+        "c00003": {
+            "author": "hoffmant",
+            "date": "2015-07-27",
+            "keyword": "Franse ovenschotel",
+            "title": "Franse ovenschotel",
+            "introduction": "Een heerlijk gerecht waarbij je niet lang in de keuken hoeft te staan. Dus ideaal bij een dineetje.",
+            "type": "Hoofdgerecht",
+            "country": "Frankrijk",
+            "prepTime": ["30-60 min."],
+            "likes": 37,            
+            "rating": {
+                "percent": "81",
+                "rates": "16"
+            },
+            "people": 4,
+            "ingredients": [
+                "500 gram kipfilet (kan ook met hamlapjes)",
+                "2 uien",
+                "1 groene paprik",
+                "bakje champions",
+                "1 blikje tomatenstukjes",
+                "30 gram bloem",
+                "4 dl bouillon van een blokje",
+                "1 dl rode wij",
+                "zout, peper",
+                "nootmuskaa",
+                "wat tijm",
+                "200 gram geraspte jonge kaas",
+                "1 eetlepel boter"
+            ],
+            "preparation": [
+                "Zorg dat alle ingredienten zijn gesneden voor je begint dat werkt het makkelijkst",
+                
+                "Verwarm de oven voor op 200 graden. Snijd de kipfilet in stukjes en braad deze in de boter goed aan. Hierna de kipfilet in de overschaal overdoen. In het achtergebleven vet de uien en paprika fruiten tot de uien goudgeel zien. Hierna de bloem toevoegen en even meebakken. Scheutje voor scheutje de wijn en de bouillon toevoegen. Goed roeren. Zorg dat de saus wat dikker blijft dan je gewent bent. Saus op smaak brengen met zout en peper en wat tijm. Saus bovenop het vlees doen. Champions in plakjes erbovenop doen en de tomatenblokjes hier weer bovenop leggen. Even glad strijken en de kaas over de tomaten verspreiden. Wat nootmuskaat erover strooien. Deksel op de overschaal doen of eventueel afdekken met alluminiumfolie. Plaats de schaal in een oven van 200 graden, na 40 minuten is de ovenschotel klaar.",
+                
+                "Lekker met vers stokbrood en een groene salade. Drink de wijn die over is bij de maaltijd."
+            ]
+        },
+        
+        "c00004": {
+            "author": "pwiggers",
+            "date": "2016-02-09",
+            "keyword": "rundvleesstoofpot",
+            "title": "Pittige Indische rundvleesstoofpot (ook voor slowcooker)",
+            "introduction": "Een heerlijke Indische stoofpot. Een top-recept! Lekker als onderdeel van een rijsttafel, maar ook heel erg lekker als hoofdgerecht.",
+            "type": "Hoofdgerecht",
+            "country": "Indonesië",
+            "prepTime": ["&gt; 120 min."],
+            "likes": 28,            
+            "rating": {
+                "percent": "92",
+                "rates": "31"
+            },
+            "people": 4,
+            "ingredients": [
+                "750 gram riblappen",
+                "750 gram uien",
+                "zout, peper",
+                "3 kruidnagelen",
+                "1 laurierblad (of 1 blad daon salam )",
+                "2 rode Spaanse pepers",
+                "1/2 dl ketjap manis",
+                "4 teentjes knoflook",
+                "3 eetlepels olie",
+                "1 theelepel ketoembar ( koriander )",
+                "1 afgestreken eetlepel kerriepoeder",
+                "2 eetlepels azijn",
+                "1 eetlepel donkerbruine basterdsuiker",
+                "1 eetlepel bloem",
+                "1 vleesbouillontablet"
+            ],
+            "preparation": [
+                "Snij het vlees in flinke dobbelstenen. ",
+                "Pel de uien en snipper deze grof. ",
+                "Pel en snipper de knoflook. ",
+                "Was de pepers, verwijder de zaadlijsten en pitjes.",
+                "Verhit de olie en bak hierin in kleine porties het rundvlees snel rondom bruin. ",
+                "Kruid het vlees met zout en peper. Haal het vlees uit de pan. ",
+                "Bak de uien en de knoflook in het overgebleven vet lichtbruin. ",
+                "Voeg de Spaanse peper , een lepel bloem, de ketoembar en kerriepoeder toe en bak even mee. ",
+                "Doe het vlees weer in de pan. Even goed doorbakken. ",
+                "Ketjap, kruidnagelen, azijn, basterdsuiker en laurierblad erbij en zoveel water dat het vlees nog net niet onder staat. ",
+                "Vleesbouillontablet verkruimelen en toevoegen en alles 2 1/2 a 3 uur sudderen. ",
+                "Proeven en eventueel nog wat zout, sambal of ketjap toevoegen en dan.....smullen maar!",
+                "Gebruik je bij de bereiding de slowcooker, zet dan de slowcooker op low en laat het vlees plm. 5 - 6 uur stoven. Afhankelijk van de grootte van de stukjes en het vlees. Na 5 uur even proberen! (zo doe ik het altijd!)"
+            ]
+        },
+        
+        "c00005": {
+            "author": "Gabyinwonderland",
+            "date": "2015-08-30",
+            "keyword": "Nacho Cheese ovenschotel",
+            "title": "Nacho Cheese ovenschotel",
+            "introduction": "Heerlijk makkelijk receptje.",
+            "type": "Tussendoor / tapas",
+            "country": "Mexico",
+            "prepTime": ["10-20 min."],
+            "likes": 43,            
+            "rating": {
+                "percent": "96",
+                "rates": "37"
+            },
+            "people": 4,
+            "ingredients": [
+                "1 zak nacho cheese tortilla chips",
+                "300 gr. rundergehakt",
+                "1 zakje taco kruiden",
+                "1 (punt) paprika",
+                "1 ui",
+                "2 teentjes knoflook",
+                "cheddar cheese",
+                "geraspte kaas"
+            ],
+            "preparation": [
+                "Snij de groenten in kleine stukjes.",
+
+                "Bak het gehakt gaar. voeg de groentes toe, en het zakje taco kruiden.",
+
+                "doe de nachochips onderin de ovenschaal, bedek met plakjes cheddar, doe daarover heen het gehakt mengsel en daar overheen de geraspte kaas.",
+
+                "zet 10 min. in een voorverwarmde oven op 220 graden. het gerecht is klaar als de kaas gesmolten is op de bovenkant."
+            ]
+        },
+        
+        "c00006": {
+            "author": "ruthbrock",
+            "date": "2015-10-25",
+            "keyword": "Appeltaart",
+            "title": "De lekkerder bestaat niet appeltaart",
+            "introduction": "Dit is een recept van Hilda Huiskamp uit Neede. Zij won in 2006 een reis naar america met dit recept voor een appeltaartwedstrijd, uitgeschreven door omroep gelderland. Ik heb hem gisteren gemaakt en ik kan je zeggen...ik heb nog nooit zo een lekkere eigengemaakte appeltaart geproefd. Al mijn andere appeltaartrecepten gaan de kliko in. Zalig gewoon, heel byzonder is de room en de puddinglaag.",
+            "type": "Patisserie",
+            "country": "Nederland",
+            "prepTime": ["30-60 min."],
+            "likes": 46,            
+            "rating": {
+                "percent": "93",
+                "rates": "27"
+            },
+            "people": "",
+            "ingredients": [
+                "HET DEEG: ",
+                "250 gram gezeefde bloem",
+                "2 volle afgestreken theelepels bakpoeder",
+                "1 ei",
+                "125 gram suiker",
+                "150 gram boter ( moet al paar uur op kamertemp.zijn)",
+                "DE VULLING:",
+                "5 goudreinetten, totaal gewicht van 1000-1025 gram ",
+                "125 gram suiker",
+                "1 pakje vanille KOOKpudding",
+                "1 zakje vanillesuiker",
+                "750 ml. slagroom"
+            ],
+            "preparation": [
+                "Oven voorverwarmen op 175 graden C.",
+                
+                "Kneed bloem, bakpoeder, suiker, boter en het ei tot een soepel deeg (met de hand goed kneden in 10 min.). Bekleed er een ingevette en met bakpapier beklede springvorm in- ook de zijkanten met bakpapier bekleden.. Schil dan de appels en snijd ze in 8 parten. Zet de partjes rechtop tegen elkaar in de vorm. De hele vorm moet goed gevuld zijn. Roer(met een vork of garde) dan het puddingpoeder in een kom met de suiker, vanillesuiker en 150 ml. van de slagroom(= 1,5 dl.) (let op dat alle klontjes weg zijn). Moet een romig geheel zijn. Kook de rest van de slagroom (goed doorroeren tijdens het koken) en roer van het vuur af de puddingmix door de slagroom. Zet pan weer terug op een LAAG vuur en breng het al roerend aan de kook. Schep dan de pudding over de appels in de vorm. Bak de taart op de onderste richel in de voorverwarmde oven in 70 minuten gaar en goudbruin. Let op: op tijd een stuk alu.folie of bakpapier over de taart leggen als de bovenkant al wat bruin is. dan de laatste 2 min. van de baktijd de folie er af halen. Laat de taart nog even in de iets geopende oven staan. zo'n 5 min. druk gewoon een houten lepel tussen de deur zodat de oven iets open staat. en laat de taart in de springvorm zitten tot hij afgekoeld is, en open dan pas de springvorm. De taart is het allerlekkerst als je hem na het afkoelen nog een aantal uren in de koelkast laat opstijven!! Dit is ook beslist nodig om hem lekker te laten opstijven!!!!!"
+            ]
+        }
+    }
+}

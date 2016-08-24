@@ -1,0 +1,528 @@
+{
+    "cutting": {
+        
+        "Allumettes": [
+            "Couper en allumettes betekent dat groente in balkjes gesneden worden zo fijn als een lucifer: 3-6 mm. Dikker dan Julienne."
+        ],
+        
+        "À vif": [
+            "Wanneer je fruit a vif moet snijden is dat vooral om de schil van het vruchtvlees af te snijden op een gestructureerde manier. Je begint door de boven- en onderkant van je fruit af te snijden, zodat je object stevig op de tafel blijft rechtstaan. Neem vervolgens een scherp mes en snij van boven naar beneden repen van de schil.",
+            
+            "Probeer het mes steeds net achter de schil te zetten en de vorm van je vrucht te volgen. Neem na het verwijderen van de schil de vrucht in je handen en maak telkens een nerf per partje fruit (tussen de verschillende partjes zit meestal een vliesje, ga daarlangs met een scherp mes) zodat de stukjes fruit mooi loskomen."
+        ],
+        
+        "Bâtonnets": [
+            "Couper en bâtonnets betekent groentes snijden in balkjes van ongeveer 6cm lengte, zoals frietjes. De verschillende formaten hebben namen: pont neuf, allumette, mignonette."
+        ],
+        
+        "Brunoise": [
+            
+            "Brunoise snijden betekent alles in kleine (2-3mm) blokjes snijden, voor vullingen en soepen.",
+            
+            "Methode: Brunoise snijden doe je door het uiteinde van de groente weg te snijden. Je snijdt een stuk van 5 centimeter af. Van dit stuk snijd je in de lengte rechte plakken. Vouw bij het snijden je vingertoppen naar binnen en houd het mes tegen de knokkels van je hand. Zo kunnen er geen ongelukken gebeuren. Stapel de plakken op elkaar en snijd daar reepjes van. Draai de stapel een kwartslag, nu kun je blokjes snijden."
+        ],
+
+        "Butterfly": [
+
+            "Deze techniek wordt ook wel accordeon genoemd. Het doel is om een dunner stuk vlees te krijgen. Een stuk vlees wordt neergelegd, gefileerd, maar niet tot het einde, en dan opengevouwen. Bij accordeon wordt dit meerdere keren gedaan."
+        ],
+
+        "Canneleren": [
+            "Canneleren is het ter decoratie inkerven of uitsnijden van groeven in de schil van groenten of vruchten. Je gebruikt hiervoor een gepast mesje zoals een canneleermesje. Of een Thaise dunschiller met ribbels."
+        ],
+
+        "Chiffonade": [
+            "Bij deze techniek worden blaadjes groente of kruiden op elkaar gelegd en opgerold en vervolgens fijn gesneden."
+        ],
+
+        "Chinoise": [
+            "Chinoise stukjes hebben de vorm van ruitjes.",
+
+            "Voor de chinoise snijd je de (meestal platte) groente, zoals bijvoorbeeld prei of wortel, diagonaal door zodat er een ruitvorm (wybertje) ontstaat. Deze snijtechniek komt, zoals de naam al doet vermoeden, uit de Chinese keuken. De groenten blancheert men vaak kort en verwerkt men in een soep of salade."
+        ],
+
+        "Ciseleren": [
+            "Ciseleren is een snijtechniek die vooral wordt gebruikt voor bladgroenten, kruiden en zachtere groenten (zoals komkommer, champignon, courgette en augurk). De techniek kenmerkt zich doordat bij het snijden het mes geheel los komt van de snijplank.",
+
+            "Ciseleren is daarmee een vorm van hakken en gebeurt altijd op hoge snelheid. De techniek vraagt veel oefening en een vlijmscherp mes.",
+
+            "Ciseleren van blaadjes: Leg enkele blaren van de groente of het kruid op elkaar, rol ze op tot een sigaarvorm en snij dan overlang tot je fijne reepjes krijgt. Ciserelen is hetzelfde als chiffonades maken.",
+
+            "Vermeldt een recept dat vlees of vis geciseleerd moet worden, dan wordt het oppervlakkig inkerven van het vlees of de vis bedoeld."
+        ],
+
+        "Cocottes": [
+            "Pommes cocottes = cocotte aardappelen. Tonvormig"
+        ],
+
+        "Concasser": [
+            "Groentes grof hakken. De grootte van de stukken moet wel ongeveer hetzelfde zijn."
+        ],
+
+        "Crinkle cutting": [
+            "NL: Wafeltjes",
+
+            "Met ribbels snijden. Daarvoor is een geribbeld mes of mandoline nodig."
+        ],
+
+        "Cube": [
+            "En cube = in blokjes",
+
+            "De verschillende formaten hebben namen: brunoise, macedoine, mirepoix, parmentier."
+        ],
+
+        "Dé (couper en dé)": [
+            "In blokjes snijden. Eng: Dicing"
+        ],
+
+        "Emincer": [
+            "Eminceren doe je wanneer je je groenten, paddestoelen, knoflook of fruit in erg dunne plakjes snijdt."
+        ],
+
+        "Escaloper": [
+            "Bij vlees en vis betekent het fileren, bij groentes betekent het in parten snijden."
+        ],
+
+        "Fermière": [
+            "Dikke julienne"
+        ],
+
+        "Fleuriste": [
+            "Balkjes van 2cm lengte en 3mm dikte."
+        ],
+
+        "Hacher": [
+            "Hakken"
+        ],
+
+        "Jardinière": [
+            "Balkjes van 3cm lengte en 4mm dikte."
+        ],
+
+        "Julienne": [
+            "Julienne snijden zijn flinterdunne reepjes van ongeveer 2 mm breedte en zo’n 4-5 centimeter lengte.",
+
+            "Julienne gesneden groenten vind je terug in soepen, salades, sauzen etc. Als je de julienne nog eens snijd, dan krijg je brunoise."
+        ],
+
+        "Lâme": [
+            "Flinterdunne plakjes"
+        ],
+
+        "Lanières": [
+            "Dit zijn flinterdunne plakken groente, gesneden met een mandoline, fileermes of speciaal apparaat."
+        ],
+
+        "Losange": [
+            "Lange ruitvormige versnijding, van bijvoorbeeld boontjes"
+        ],
+
+        "Mandoline": [
+            "Snijapparaat om groentes in dunne plakken of balkjes te snijden."
+        ],
+
+        "Macédoine": [
+            "Macédoine snijden doe je door je groenten of vruchten in dubbelsteentjes van zo’n 5 mm te snijden.",
+
+            "Macédoine is de grotere variant dobbelsteen van de brunoise. Waarom 5 mm? Dit is de officiële afmeting van erwtjes die ook vaak in een macédoine gaan. Zo zijn alle groente van gelijke grootte. Een Macédoine is ook de naam van een verzameling, lees op de menukaart ‘salade’, van in blokjes gesneden groenten of fruit."
+        ],
+
+        "Mignonette": [
+            "Pomme mignonette zijn balkjes van 7cm en 3mm dikte."
+        ],
+
+        "Mirepoix": [
+            "Dit is een mix van in blokjes gesneden ui, wortel, knol- en bleekselderij en kruiden, gebruikt bij de bereiding van bouillon, soep, sauzen en stoofvlees. Een zogenaamde vette mirepoix bevat ook blokjes spek."
+        ],
+
+        "Noisette": [
+            "Bolletjes gesneden met de noisettelepel."
+        ],
+
+        "Oblique": [
+            "Eng: roll cut",
+
+            "Wortels worden schuin gesneden en steeds 180 graden gerold."
+        ],
+
+        "Pareren": [
+            "Het verwijderen van alle niet-bruikbare of niet-gebruikte delen van een stuk vlees, gevogelte of vis, zoals vet en zenuwen, om het een mooiere vorm te geven. De weggesneden gedeelten kunnen gebruikt worden voor een bouillon. De term wordt ook gebruikt voor het bijsnijden of gelijk snijden van groenten."
+        ],
+
+        "Parisienne": [
+            "Bolletjes gesneden met de parisienlepel."
+        ],
+
+        "Parmentier": [
+            "Carré Parmentier zijn blokjes zijn van ongeveer 10 mm grootte."
+        ],
+
+        "Paysanne": [
+            "Paysanne zijn dunne (meestal vierkante) plakjes van 1cm breedte."
+        ],
+
+        "Pommes chateau": [
+            "NL: kasteelaardappeltjes",
+
+            "Aardappels gesneden in tonvorm. Zie tourneren."
+        ],
+
+        "Pommes noisettes": [
+            "Aardappelnootjes of Parijse aardappelen",
+
+            "Steek met behulp van een Parisiennelepel, cocottelepel of nootjeslepel bolletjes uit grote aardappelen. Of machinaal: Snijd de aardappels in blokjes van 4 centimeter en leg ze in de aardappelschrapper. Schil ze tot de aardappels rond geworden zijn en een donsachtige textuur hebben gekregen."
+        ],
+
+        "Pont neuf": [
+            "Pommes pont neuf zijn balkjes van 7cm en 1cm dikte."
+        ],
+
+        "Rondelles": [
+            "Een rondelle is een schijfje, meestal wortel of aardappel."
+        ],
+
+        "Tourneren": [
+            "Tourneren heeft tot doel producten te verfraaien, door ze met een tourneermesje gelijkmatig van vorm, grootte en gewicht te snijden.",
+
+            "Met name de harde groentesoorten als koolraap, meiknol, wortelen, komkommer en courgette maar ook aardappelen en champignons zijn geschikt om te tourneren.",
+
+            "Je kunt hier een tourneermesje voor gebruiken, dit heeft een gebogen, sabelachtig lemet en werkt het beste voor de tourneertechniek. Wanneer je dat niet hebt, werkt een aardappelschilmesje ook prima!"
+        ],
+
+        "Trancheren": [
+            "Trancheren kan ofwel het voorsnijden van een stuk vlees betekenen of het in plakjes snijden van gebakken vis, vlees, wild, groenten of fruit."
+        ]
+    },
+    
+    "cooking": {
+        "Au bain marie": {
+            "intro": {
+                "title": "Water wordt niet heter dan 100°C",
+                "text": "Een pan met vloeistof wordt niet heter dan de kooktemperatuur, want op die temperatuur wil de vloeistof verdampen. Er onstaat een balans tussen de warmte die wordt toegevoegd aan de onderzijde en de warmte die de vloeistof kwijtraakt door de verdamping. Alleen onder druk, zoals in een snelkookpan, kan de vloeistof heter worden dan zijn kooktemperatuur."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Au bain marie",
+                    "paragraphs": [
+                        "Au bain marie is een kooktechniek die gebruik maakt van het feit dat water niet heter wordt dan 100°C en als een buffer fungeert tussen het hete vuur en het gerecht. Door een schaal te zetten op een pan kokend water, wordt die schaal niet heter dan 100°C. Dat is voor de bereiding van bepaalde gerechten essentieel. Bijvoorbeeld bij eiergerechten om schiften en vlokken te voorkomen, zoals custards, bepaalde cakegerechten, soufflés, eiersauzen, advocaat, etc.",
+                        
+                        "Een ander voorbeeld is chocolade. Als dit in een bepaald recept gesmolten moet worden, dan kan dit het beste au bain marie gedaan worden. Als de chocolade rechtstreeks in een pan verwarmd wordt, dan is de kans groot dat het verbrand en er een bittere smaak vrijkomt."
+                    ]
+                },
+                
+                {
+                    "heading": "Gelijkmatig",
+                    "paragraphs": [
+                        "De methode waarbij een steelpan in een pan heet water wordt gezet, is een variant die de Amerikanen double boiler noemen.",
+                        
+                        "Voor veel gerechten is het beter om een schaal zo op de pan te hangen, dat de bodem niet het water raakt. Het voordeel hiervan is dat de schaal gelijkmatig en geleidelijk verwarmd wordt door de stoom. Dat voorkomt de temperatuurschokken waardoor bepaalde gerechten met ei kunnen gaan schiften of vlokken. Voorbeelden zijn custard en advocaat.",
+                        
+                        "Om diezelfde reden worden eigelen nooit direct aan een warme vloeistof, meestal melk, toegevoegd. Eerst wordt lepel voor lepel wat warme vloeistof door de eigelen geroerd. Nadat het mengsel ook warm is, wordt het aan de pan toegevoegd."
+                    ]
+                },
+                
+                {
+                    "heading": "In de oven",
+                    "paragraphs": [
+                        "Een veel gebruikte variant is het garen van pudding in de oven, zoals crème brûlée. In een braadslee wordt heet water gedaan. Daarin worden ovenschaaltjes met pudding gezet. Deze worden niet heter dan 100°C en garen dus geleidelijk zonder kans op verbranden.",
+                        
+                        "Het water hoeft niet tot de rand van de schaaltjes te komen, op halve hoogte is voldoende. Soms wordt onderin de braadslee nog een gevouwen theedoek gelegd waarop de schaaltjes rusten, zodat de schaaltjes niet schuiven tijdens transport van de braadslee. Ook een optie is om de braadslee te vullen met heet water zodra in de oven. Dat scheelt een keer lopen met een zware braadslee met heet water."
+                    ]
+                },
+                
+                {
+                    "heading": "Kooktips",
+                    "paragraphs": [
+                        "Bij het au bain marie verwarmen in een schaal boven een pan is het belangrijk om continu te blijven roeren met een garde. Dat zorgt dat de vloeistof homogeen opwarmt en dat de eiwitten niet voortijdig stollen op de bodem.",
+                        
+                        "Zodra het water kookt kan het vuur zachter gezet worden. Zolang er maar stoom komt om de schaal te verhitten. Eiergerechten hoeven niet boven de 80°C verwarmt te worden. Bij die temperatuur zijn alle eiwitten reeds gestold.",
+                        
+                        "Het is aan te raden om eiersauzen en custards niet verder te verwarmen omdat de eiwitten dan kunnen gaan klonteren.",
+                        
+                        "Het au bain marie proces van verwarmen duurt lang. Het is belangrijk om geduldig te blijven roeren over de bodem waar de eiwitten als eerste gaan stollen en onopgemerkt gaan klonteren.",
+                        
+                        "Hou er rekening mee dat na het uitzetten van het vuur de pan water nog steeds heet is. Het beste kan de schaal in een bak lauw watergezet worden om af te koelen. Blijf kloppend roeren."
+                    ]
+                },
+                
+                {
+                    "heading": "Apparatuur",
+                    "paragraphs": [
+                        "Er zijn pannensets te koop speciaal voor deze techniek, en er zijn electrische pannen met een nauwkeurige thermostaat. Electrische pannen zijn snel, veilig en hebben de optie om de gewenste temperatuur te kiezen."
+                    ]
+                },
+                
+                {
+                    "heading": "Vacuum koken",
+                    "paragraphs": [
+                        "Bij deze techniek, ook wel sous-vide bereiden genoemd, wordt het gerecht eerst vacuum verpakt in folie en vervolgens au bain marie gegaard. Het voordeel is dat aroma’s niet vervliegen. Daarnaast zijn er practische voordelen voor opslag en bereiding."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "https://www.youtube.com/watch?v=5ei6E_Oda1I",
+                "text": ""
+            }
+        },
+        
+        "Blancheren": {
+            "intro": {
+                "title": "Blancheren als kooktechniek",
+                "text": "Blancheren is het gedurende zeer korte tijd in kokend water gaar laten worden van voedingsmiddelen, zodat geur, smaak en uiterlijk optimaal behouden blijven. Blancheren gebeurt altijd zonder deksel."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Het doel van blancheren",
+                    "paragraphs": [
+                        "Wil je producten reinigen of verstevigen om ze te kunnen schoonmaken, dan zet je ze op met een koude vloeistof. Bijvoorbeeld beenderen voor het maken van bouillon. Als je een product als spinazie snel wilt garen, blancheer je het in een ruim kokende vloeistof. Blancheren is een nat bereidingsproces dat je bij een lage bereidingstemperatuur toepast.",
+                        
+                        "Je maakt gebruik van een garingsvloeistof waarbij je ervoor zorgt dat de temperatuur van de vloeistof en het product niet boven de 100°C komen.",
+                        
+                        "Blancheren is een voorbereidings techniek en je zult hem daarom meestal tijdens de mise en place toepassen. Je gebruikt deze techniek in alle afdelingen van de keuken. In de koude, de warme keuken en in de patisserie. Je blancheert altijd zonder deksel zodat het koolzuurgas (zuren) kan ontsnappen.",
+                        
+                        "Wil je een product reinigen, verstevigen of een te ‘sterke smaak verwijderen, dan blancheer je vanuit een koude vloeistof. Bij de toepassing van deze techniek moet je letten op:",
+                        
+                        "- De samenstelling en structuur van het product. Blancheren pas je toe bij zowel plantaardige als dierlijke producten.",
+                        
+                        "- De grootte van het product. Je verkleint de producten in grove en verwerkbare delen en je snijdt ze gelijkmatig fijn."
+                    ]
+                },
+                
+                {
+                    "heading": "De hoeveelheid vloeistof.",
+                    "paragraphs": [
+                        "Je neemt een pan waar het te blancheren product ruim in past. Je vult de hoeveelheid vloeistof aan zodat het product een paar centimeter onder het vloeistofniveau ligt."
+                    ]
+                },
+                
+                {
+                    "heading": "De starttemperatuur van de vloeistof.",
+                    "paragraphs": [
+                        "met een koude vloeistof om de poriën van de producten te openen, waardoor je ongerechtigheden, sterke geuren of overtollig bloed uit het producten trekt. We spreken dan over het oplossen van de voedingsstoffen uit de producten die overgaan in de vloeistof. Je gebruikt geen deksel bij het blancheren."
+                    ]
+                },
+                
+                {
+                    "heading": "Koude vloeistof",
+                    "paragraphs": [
+                        "Bij het blancheren vanuit een koude vloeistof loopt de temperatuur geleidelijk op naar het kookpunt.",
+                        
+                        "De tijdsduur van het proces. Bij het blancheren vanuit een koude vloeistof kan de tijdsduur variëren van een halfuur tot enkele uren. Dit is afhankelijk van de hoeveelheid vloeistof die je aan de kook moet brengen.",
+                        
+                        "De afwerking. Na het blancheren, spoel je de vloeistof weg. Je spoelt de producten af met warm water om de gestolde eiwit- en vetresten te verwijderen. Daarna spoel je de producten met koud water."
+                    ]
+                },
+                
+                {
+                    "heading": "Warme vloeistof",
+                    "paragraphs": [
+                        "Wil je snel garen, dus blancheren vanuit een warme vloeistof, dan moetje bij de toepassing van deze techniek letten op:",
+                        
+                        "– De samenstelling en structuur van het product. Blancheren met als doel ‘snel garen’ kun je toepassen bij plantaardige en dierlijke producten.",
+                        
+                        "– De grootte van het product. Om de techniek snel uit te voeren, blancheer je kleine/dunne producten. Je kunt de producten ook verkleinen voor het blancheren. De producten moeten van gelijke grootte en dikte zijn om ze gelijkmatig te kunnen garen.",
+                        
+                        "– De soort vloeistof. Je kunt deze techniek in water, stoom of in olie toepassen. Het blancheren in olie noemen we arrêteren.",
+                        
+                        "– De hoeveelheid vloeistof. Als je gaat blancheren in kokende vloeistof, is de verhouding tien delen vloeistof op één deel product. Als je aan het kokende water een grote hoeveelheid groenten toevoegt, zal het water te veel afkoelen. Voordat de vloeistof dan opnieuw aan de kook is, zijn bijvoorbeeld fijne bladgroenten te gaar of zelfs papperig en verkleurd.",
+                        
+                        "– De starttemperatuur van de vloeistof. Je start met een kokende vloeistof om de poriën van het product dicht te schroeien en het product snel te garen waardoor smaak, voedingswaarde en kleur zo veel mogelijk in het product behouden blijven. Dat noemen we concentreren.",
+                        
+                        "– De temperatuur tijdens het proces. Tijdens het blancheren in een kokende vloeistof moet je de vloeistof kokend houden.",
+                        
+                        "– De tijdsduur van het proces. Bij het blancheren vanuit een kokende vloeistof kan de tijdsduur variëren van enkele seconden tot enkele minuten. Dit is afhankelijk van de dikte en de structuur van het product. Spinaziebladen met een zachte structuur blancheer je sneller dan dikkere worteltjes met een harde structuur.",
+                        
+                        "– De afwerking. Na het blancheren, koel je het product direct terug in ijswater of in een snelkoeler. Die snelle terugkoeling van het product voorkomt het doorgaren en/of verkleuren."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "",
+                "text": ""
+            }
+        },
+                
+        "Glaceren": {
+            "intro": {
+                "title": "Glaceren als <em>kooktechniek</em>",
+                "text": "Met glaceren voorzien we een product van een glanzend laagje. Glaceren is zowel mogelijk bij dierlijke producten als bij plantaardige producten. De techniek en het doel verschillen echter bij beide producten. Bij dieren met een taai en stug bindweefsel die veel smaakstoffen bezitten is het handig om deze te glaceren. Daardoor veranderen deze in een smakelijk en eetbaar product. Het product wordt zo niet alleen gaar, maar krijgt tevens een fraai glanzend laagje. Denk bijvoorbeeld aan wit vlees of de poten van gevogelte. Bij het glaceren van plantaardige producten worden deze voorzien van een glanzend laagje van boter met honing, stroop of suikerwater. Het meest bekend zijn geglaceerde worteltjes."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Glaceren heeft 2 betekenissen",
+                    "paragraphs": [
+                        "Het doel van het glaceren van dierlijke producten is het taaie, stugge bindweefsel van een product te veranderen in een zacht eetbaar product.",
+                        
+                        "Het product is aan het eind van de bereiding gaar en heeft een mooi glanzend laagje.",
+                        
+                        "Het glaceren van dierlijke producten is een langdurig nat bereidingsproces bij een hoge bereidingstemperatuur.",
+                        
+                        "Je maakt daarbij gebruik van een garingsvloeistof waarvan de temperatuur niet boven de 100 °C komt (de kern van het product dus ook niet).",
+                        
+                        "Dierlijke producten worden vooral tijdens de mise en place geglaceerd en afgewerkt tijdens de doorgifte.",
+                        
+                        "Het glaceren van plantaardige producten heeft tot doel de producten te voorzien van een mooi glanzend laagje.",
+                        
+                        "Je maakt gebruik van een garingsvloeistof waarbij de temperatuur van de vloeistof en de kern van het product niet boven de 100 °C komen.",
+                        
+                        "Het glaceren van plantaardige producten is een kort, nat bereidingsproces bij een lage bereidingstemperatuur."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "",
+                "text": ""
+            }
+        },
+        
+        "Gratineren": {
+            "intro": {
+                "title": "Gratineren als kooktechniek",
+                "text": "Gratineren als garingstechniek pas je toe bij rauwe producten die een zachte of malse structuur hebben en die veel vocht bevatten zoals tomaten en vis. Producten met een stevige of harde structuur moet je eerst garen, voordatje ze kunt gratineren. In dat geval is gratineren een afwerktechniek."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Het doel van gratineren is tweeledig",
+                    "paragraphs": [
+                        "— Een rauw product garen en voorzien van een mooie bruine korst.",
+                        
+                        "— Een gaar product voorzien van een mooie bruine korst.",
+                        
+                        "Gratineren is een droog bereidingsproces dat bij een temperatuur wordt uitgevoerd, die varieert tussen de 250 en 300°C.",
+                        
+                        "Gratineren is een korte bereidingstechniek en daardoor een á la minute bereiding die je kunt toepassen in alle afdelingen van de keuken.",
+                        
+                        "Gratineren vindt plaats onder de salamander of in een oven met sterke bovenwarmte.",
+                        
+                        "Tijdens het gratineerproces is er één zijde naar de stralingsbron gekeerd, waardoor er een kleuringsproces aan de bovenzijde van het product plaatsvindt.",
+                        
+                        "De intensiteit van de stralingswarmte garandeert een ogenblikkelijke stolling van de eiwitten, afbraak van zetmeel en de reactie van Maillard, die noodzakelijk is voor een krokante, aantrekkelijke korst.",
+                        
+                        "Het oppervlak van het product droogt snel uit door de hoge temperatuur, terwijl het binnenste deel van het product, dat voor een deel uit water bestaat nooit warmer dan 75°C zal worden.",
+                        
+                        "De laag waarmee je gratineert, moet bij het product passen. Producten die je wilt gratineren, moeten zo droog mogelijk zijn. Warme, gegratineerde producten moet je zo snel mogelijk serveren."
+                    ]
+                },
+                
+                {
+                    "heading": "Groenten",
+                    "paragraphs": [
+                        "Gratineren pas je als bereidingstechniek toe bij zachte, vochtrijke producten als tomaten en aubergines.",
+                        
+                        "De meeste groenten kun je gratineren als afwerktechniek. Alle genoemde gratineerlagen kun je toepassen.",
+                        
+                        "De keuze is afhankelijk van de vraag of het gewenste eindresultaat een krokante of een zachte gratineer laag moet zijn.",
+                        
+                        "Je kunt bijvoorbeeld denken aan: bloemkool met paneermeel, witlof met geraspte kaas, broccoli met saus mornay, venkel met soubisepuree of groene asperges met eiersaus."
+                    ]
+                },
+                
+                {
+                    "heading": "Aardappelen",
+                    "paragraphs": [
+                        "Gratineren als bereidingstechniek kun je toepassen bij verkleinde aardappelen, bijvoorbeeld plakken.",
+                        
+                        "De aardappelen worden daarna gelijkmatig op een bakplaat gelegd of verspreid (pommes Anna, dakpansge wijs), ingevet met geklaarde boter of olie en onder de salamander geplaatst. Aardappelen kun je gratineren als afwerktechniek.",
+                        
+                        "Alle genoemde gratineerlagen kun je toepassen. De keuze is afhankelijk van de vraag of het gewenste eindresultaat een krokante of een zachte gratineerlaag moet zijn.",
+                        
+                        "Gratineren als afwerktechniek pas je bij voorbeeld toe bij aardappelpuree, duchessepuree en gratin dauphinois."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "",
+                "text": ""
+            }
+        },
+        
+        "Grilleren": {
+            "intro": {
+                "title": "Grilleren als kooktechniek",
+                "text": "Het doel van grilleren is een product te verkrijgen dat de juiste gaarheid heeft en dat aan de buitenkant een knapperige, krokante korst heeft met de typische grillsmaak."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Grillen",
+                    "paragraphs": [
+                        "Grilleren is een droog bereidingsproces dat bij een hoge temperatuur, die varieert tussen de 150-250°C, wordt uitgevoerd. Het binnenste van het product, dat voor een deel uit water bestaat, zal nooit warmer dan 75°C worden. Grilleren is een korte bereidingstechniek en daardoor een eindbereiding die wordt toegepast in de warme keuken. De bereiding wordt meestal à la minute toegepast.",
+                        
+                        "In recepten voor grilgerechten komen vaak marinades voor die het product malser en zachter maken. Als je producten wilt grilleren, moeten de producten voor het invetten wel zo droog mogelijk zijn. De grill moet van te voren op de gewenste temperatuur zijn gebracht. Je vet het product in om te voorkomen dat het vastplakt aan de gril. Bij het grilleren leg je het product op een korte afstand op, boven of onder de hittebron.",
+                        
+                        "Door de hoge temperatuur tijdens het grilleren zal de reactie van Maillard niet alleen aan het oppervlak, maar ook dieper in het vlees plaatsvinden. Dat veroorzaakt een sterkere grillsmaak. Voor de bereiding aromatiseer je het product alleen. Je zout het niet, omdat zout vocht onttrekt aan het product en daardoor het roastingproces vertraagt. Dunne producten zullen aan een kant worden gegrilleerd, de dikkere stukken moeten vaker worden gekeerd.",
+                        
+                        "De roosterafdrukken geven het aantal roosterdraaien aan, waarbij bij twee keer draaien aan één zijde een raster op het productoppervlak zichtbaar wordt. Je draait en keert het product met een speciale tang.Je moet nooit in het product prikken omdat dan de sappen uit het vlees komen. Je zout het product licht na. Bij gegrilleerde producten ontstaat nooit jus."
+                    ]
+                },
+                
+                {
+                    "heading": "Hittebronnen",
+                    "paragraphs": [
+                        "De hittebronnen kun je indelen in twee soorten: open hittebronnen en contact-hittebronnen. Bij open hittebronnen komt het product niet in aanraking met de gloeiende houtskool, gloeiende lavastenen of de grill in een oven. Bij contact-hittebronnen maakt het product contact met de warmte-elementen zoals de grillpan of de elektrogrill.",
+                        
+                        "Bij de open hittebronnen kun je de temperatuur van de grill regelen door de afstand tot het grill rooster te variëren. Bij een contactgrill regel je de temperatuur met een knop. Het grilleren in de buiten lucht, op houtskool bijvoorbeeld, heeft als voordeel dat al het water dat uit het product verdampt, in de lucht verdwijnt. In een oven of grilloven kan de damp niet ontsnappen. Daardoor wordt het korstje minder hard en zal er meer vocht uit het vlees kunnen verdampen waardoor het product droger wordt."
+                    ]
+                },
+                
+                {
+                    "heading": "Roosteren",
+                    "paragraphs": [
+                        "We gebruiken de termen grilleren en roosteren door elkaar. Roosteren is het bruinen en garen van producten op een vlakke hete plaat. We kennen twee bereidingswijzen:",
+                        
+                        "Het product wordt droog, dus zonder vetstof, op een hete plaat bereid. Als er vet uit het product vloeit, halen we dat weg. Je kunt wat zout gebruiken om te voorkomen dat het product aan de plaat plakt. Je gebruikt een kleine hoeveelheid vet om het product op de hete plaat te bereiden. Je moet roosteren bij een matige temperatuur. Als de vetstof gaat roken, is de temperatuur te hoog."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "",
+                "text": ""
+            }
+        },
+        
+        "Koken": {
+            "intro": {
+                "title": "Koken als kooktechniek",
+                "text": "Het doel van koken is het zachter en lichter verteerbaar maken (garen) van ingrediënten. Koken is een nat bereidingsproces met een lage bereidingstemperatuur. Je maakt gebruik van een garingsvloeistof waarbij de temperatuur van de vloeistof en het product niet boven de 100°C komen. Koken is een techniek waarbij je het product op een gemakkelijke en efficiënte manier in ruime vloeistof gaart bij een temperatuur die tussen de 95°C en 100°C ligt. Wanneer je de vloeistof snel aan de kook wilt laten komen, maak je gebruik van een deksel. De techniek koken kun je toepassen in alle afdelingen van de keuken."
+            },
+            
+            "sections": [
+                {
+                    "heading": "Twee methoden",
+                    "paragraphs": [
+                        "Er zijn twee methoden: je kunt beginnen met een koude vloeistof of met een kokende vloeistof. Als je begint met een koude vloeistof, duurt het garingsproces uiteraard langer dan wanneer je start met een kokende vloeistof. Je kunt dus koken met een lange of een korte bereidingstijd. Daarom wordt koken als mise en place en als eindbereiding toegepast."
+                    ]
+                },
+                
+                {
+                    "heading": "Koken waarbij je start met een koude vloeistof",
+                    "paragraphs": [
+                        "Het trekken van een bouillon heeft tot doel een zo groot mogelijke uitwisseling van smaak tussen het vlees, de groenten en kruiden in de vloeistof te verkrijgen. Deze uitwisseling kun je bevorderen door met een koude vloeistof te beginnen en die langzaam tot tegen het kookpunt te verwarmen. Bij deze methode zet je bijvoorbeeld een runderschenkel en beenderen (vooraf geblancheerd) op met een koude vloeistof. Je verhit ze langzaam tot een temperatuur van maximaal 100°C."
+                    ]
+                },
+                
+                {
+                    "heading": "Koken waarbij je start met een kokende vloeistof",
+                    "paragraphs": [
+                        "Als je een product wilt garen door het te koken, probeer je de smaakstoffen in het product te behouden. Daarom moet je het product juist wel in een hete vloeistof opzetten om de buitenkant van het product zo goed mogelijk af te sluiten. Als je volgens deze methode werkt, zetje bijvoorbeeld getourneerde wortelen op met ruim kokende vloeistof en je kookt tot het gewenste punt van gaarheid is bereikt."
+                    ]
+                }
+            ],
+            
+            "links": {
+                "video": "",
+                "text": ""
+            }
+        }        
+    }
+}
+
